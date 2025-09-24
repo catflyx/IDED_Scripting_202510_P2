@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Parcial2.src
 {
-    internal class Gastly : Pokemon
+    public class Gastly : Pokemon
     {
         public Gastly() : base("Gastly", new List<PokemonType> { PokemonType.Ghost, PokemonType.Poison })
         {

@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Parcial2.src
-{    internal class Charmander : Pokemon
+{
+    public class Charmander : Pokemon
     {
         public Charmander() : base("Charmander", new List<PokemonType> { PokemonType.Fire })
         {

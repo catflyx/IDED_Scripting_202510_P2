@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Parcial2.src
 {
-    internal class Onix : Pokemon
+    public class Onix : Pokemon
     {
         public Onix() : base("Onix", new List<PokemonType> { PokemonType.Rock, PokemonType.Ground })
         {

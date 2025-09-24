@@ -1,6 +1,6 @@
 ﻿namespace Parcial2.src
 {
-    internal class Pikachu : Pokemon
+    public class Pikachu : Pokemon
     {
         public Pikachu() : base("Pikachu", new List<PokemonType> { PokemonType.Electric })
         {
