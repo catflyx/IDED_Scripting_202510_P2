@@ -5,35 +5,6 @@ Solución del parcial 2 de Scripting.
 - Esteban Puerta - 000509157
 - Valeria Cecilia Blanquicett - 000501665
 
-# Taller 2 - Scripting (UPB)
-
-## 👨‍💻 Integrantes
-- [Tu Nombre Aquí]
-
----
-
-## 📖 Descripción
-Este proyecto implementa un sistema simplificado de combate tipo Pokémon, siguiendo el enfoque **Desarrollo Dirigido por Pruebas (TDD)**.
-
-Incluye:
-- Clases base (`Pokemon`, `Move`, `TypeChart`, `DamageCalculator`).
-- 5 especies de Pokémon implementadas como clases concretas (`Pikachu`, `Charmander`, `Bulbasaur`, `Onix`, `Gastly`).
-- Fórmula de cálculo de daño según nivel, estadísticas, poder de movimiento y modificadores por tipo.
-- Pruebas unitarias con NUnit cubriendo:
-  - Inicialización de objetos.
-  - Tabla de efectividades de tipo (`TypeChart`).
-  - Fórmula de daño (`DamageCalculator`) con **40 casos exactos** dados por el profesor.
-
----
-
-## 🛠️ Tecnologías
-- C# (.NET 6 / .NET Core)
-- NUnit
-- NUnit3TestAdapter
-- Visual Studio 2022
-
----
-
 ##  Ejecución de pruebas
 
 Para correr las pruebas, no se ejecuta el programa con `Ctrl + F5`.  
