@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\tests\\pokemontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:tests\\pokemontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\tests\\movetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:tests\\movetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\pokemontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\pokemontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\movetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\movetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +50,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\MoveTests.cs",
+              "RelativeDocumentMoniker": "tests\\MoveTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\MoveTests.cs",
+              "RelativeToolTip": "tests\\MoveTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:32:37.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\PokemonTests.cs",
+              "RelativeDocumentMoniker": "tests\\PokemonTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\PokemonTests.cs",
+              "RelativeToolTip": "tests\\PokemonTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:32:17.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Move.cs",
+              "RelativeDocumentMoniker": "src\\Move.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Move.cs",
+              "RelativeToolTip": "src\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:31:13.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoveType.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\MoveType.cs",
+              "RelativeDocumentMoniker": "src\\MoveType.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\MoveType.cs",
+              "RelativeToolTip": "src\\MoveType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:31:51.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Pokemon.cs",
+              "RelativeDocumentMoniker": "src\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Pokemon.cs",
+              "RelativeToolTip": "src\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:30:57.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonType.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\PokemonType.cs",
+              "RelativeDocumentMoniker": "src\\PokemonType.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\PokemonType.cs",
+              "RelativeToolTip": "src\\PokemonType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:31:36.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\UnitTest1.cs",
               "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T11:23:42.418Z",
               "EditorCaption": ""
