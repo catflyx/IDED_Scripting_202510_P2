@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\tests\\typecharttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:tests\\typecharttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\typechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\typechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\tests\\pokemontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:tests\\pokemontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\gastly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\gastly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\onix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\onix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\bulbasaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\bulbasaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\charmander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\pikachu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\pikachu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\tests\\typecharttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:tests\\typecharttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\tests\\movetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:tests\\movetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\tests\\damagecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:tests\\damagecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\typechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\typechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\pokemontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +57,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\src\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:src\\damagecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|c:\\users\\admin\\documents\\universidad\\6-semestre\\scripting\\parcial2\\ided_scripting_202510_p2\\parcial2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35575F8-BA0C-4D39-A0F2-314BD46B760D}|Parcial2.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,69 +86,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TypeChartTests.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\TypeChartTests.cs",
-              "RelativeDocumentMoniker": "tests\\TypeChartTests.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\TypeChartTests.cs",
-              "RelativeToolTip": "tests\\TypeChartTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Gastly.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Gastly.cs",
+              "RelativeDocumentMoniker": "src\\Gastly.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Gastly.cs",
+              "RelativeToolTip": "src\\Gastly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:51:43.478Z",
+              "WhenOpened": "2025-09-24T12:26:31.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TypeChart.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\TypeChart.cs",
-              "RelativeDocumentMoniker": "src\\TypeChart.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\TypeChart.cs",
-              "RelativeToolTip": "src\\TypeChart.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAwHUAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Onix.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Onix.cs",
+              "RelativeDocumentMoniker": "src\\Onix.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Onix.cs",
+              "RelativeToolTip": "src\\Onix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:51:26.969Z",
+              "WhenOpened": "2025-09-24T12:26:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bulbasaur.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Bulbasaur.cs",
+              "RelativeDocumentMoniker": "src\\Bulbasaur.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Bulbasaur.cs",
+              "RelativeToolTip": "src\\Bulbasaur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:25:44.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MoveTests.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\MoveTests.cs",
-              "RelativeDocumentMoniker": "tests\\MoveTests.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\MoveTests.cs",
-              "RelativeToolTip": "tests\\MoveTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Title": "Charmander.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Charmander.cs",
+              "RelativeDocumentMoniker": "src\\Charmander.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Charmander.cs",
+              "RelativeToolTip": "src\\Charmander.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:32:37.053Z"
+              "WhenOpened": "2025-09-24T12:25:27.603Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Pikachu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Pikachu.cs",
+              "RelativeDocumentMoniker": "src\\Pikachu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Pikachu.cs",
+              "RelativeToolTip": "src\\Pikachu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:25:12.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DamageCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\DamageCalculatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\DamageCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\DamageCalculatorTests.cs",
+              "RelativeToolTip": "tests\\DamageCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:14:25.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Pokemon.cs",
+              "RelativeDocumentMoniker": "src\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Pokemon.cs",
+              "RelativeToolTip": "src\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:30:57.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PokemonType.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\PokemonType.cs",
+              "RelativeDocumentMoniker": "src\\PokemonType.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\PokemonType.cs",
+              "RelativeToolTip": "src\\PokemonType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:31:36.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PokemonTests.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\PokemonTests.cs",
               "RelativeDocumentMoniker": "tests\\PokemonTests.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\PokemonTests.cs",
               "RelativeToolTip": "tests\\PokemonTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:32:17.972Z"
+              "WhenOpened": "2025-09-24T11:32:17.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Move.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Move.cs",
-              "RelativeDocumentMoniker": "src\\Move.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Move.cs",
-              "RelativeToolTip": "src\\Move.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:31:13.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "MoveType.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\MoveType.cs",
               "RelativeDocumentMoniker": "src\\MoveType.cs",
@@ -128,35 +211,77 @@
               "RelativeToolTip": "src\\MoveType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:31:51.522Z"
+              "WhenOpened": "2025-09-24T11:31:51.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TypeChart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\TypeChart.cs",
+              "RelativeDocumentMoniker": "src\\TypeChart.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\TypeChart.cs",
+              "RelativeToolTip": "src\\TypeChart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:51:26.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoveTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\MoveTests.cs",
+              "RelativeDocumentMoniker": "tests\\MoveTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\MoveTests.cs",
+              "RelativeToolTip": "tests\\MoveTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:32:37.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Pokemon.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Pokemon.cs",
-              "RelativeDocumentMoniker": "src\\Pokemon.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Pokemon.cs",
-              "RelativeToolTip": "src\\Pokemon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Title": "TypeChartTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\TypeChartTests.cs",
+              "RelativeDocumentMoniker": "tests\\TypeChartTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\TypeChartTests.cs",
+              "RelativeToolTip": "tests\\TypeChartTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:30:57.392Z"
+              "WhenOpened": "2025-09-24T11:51:43.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PokemonType.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\PokemonType.cs",
-              "RelativeDocumentMoniker": "src\\PokemonType.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\PokemonType.cs",
-              "RelativeToolTip": "src\\PokemonType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Move.cs",
+              "RelativeDocumentMoniker": "src\\Move.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Move.cs",
+              "RelativeToolTip": "src\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:31:36.298Z"
+              "WhenOpened": "2025-09-24T11:31:13.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
+              "Title": "DamageCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\DamageCalculator.cs",
+              "RelativeDocumentMoniker": "src\\DamageCalculator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\DamageCalculator.cs",
+              "RelativeToolTip": "src\\DamageCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:14:01.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTest1.cs",

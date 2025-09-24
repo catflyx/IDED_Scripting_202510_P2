@@ -2,7 +2,7 @@
 
 namespace Parcial2.tests
 {
-    internal class MoveTests
+    public class MoveTests
     {
         [Test]
         public void CrearMovePorDefecto_ValoresCorrectos()

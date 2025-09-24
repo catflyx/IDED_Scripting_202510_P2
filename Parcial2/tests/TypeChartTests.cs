@@ -4,7 +4,7 @@ using System;
 
 namespace Parcial2.tests
 {
-    internal class TypeChartTests
+    public class TypeChartTests
     {
         [Test]
         public void RockVsFire_Es2x()

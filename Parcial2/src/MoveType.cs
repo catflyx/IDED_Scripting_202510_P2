@@ -1,6 +1,6 @@
 ﻿namespace Parcial2.src
 {
-    internal enum MoveType
+    public enum MoveType
     {
         Physical,
         Special

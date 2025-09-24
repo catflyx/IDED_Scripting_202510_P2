@@ -2,7 +2,7 @@
 
 namespace Parcial2.tests
 {
-    internal class PokemonTests
+    public class PokemonTests
     {
         [Test]
         public void CrearPokemonPorDefecto_ValoresInicialesCorrectos()
@@ -16,6 +16,23 @@ namespace Parcial2.tests
             Assert.AreEqual(10, pikachu.SpecialAttack);
             Assert.AreEqual(10, pikachu.SpecialDefense);
             Assert.AreEqual(PokemonType.Electric, pikachu.Types[0]);
+        }
+
+        [Test]
+        public void Pikachu_SeInicializaCorrecto()
+        {
+            var p = new Pikachu();
+            Assert.AreEqual("Pikachu", p.Name);
+            Assert.AreEqual(PokemonType.Electric, p.Types[0]);
+            Assert.AreEqual(55, p.Attack);
+        }
+
+        [Test]
+        public void Bulbasaur_TieneDosTipos()
+        {
+            var b = new Bulbasaur();
+            Assert.Contains(PokemonType.Grass, b.Types);
+            Assert.Contains(PokemonType.Poison, b.Types);
         }
     }
 }

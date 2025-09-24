@@ -1,6 +1,6 @@
 ﻿namespace Parcial2.src
 {
-    internal enum PokemonType
+    public enum PokemonType
     {
         Rock,
         Ground,

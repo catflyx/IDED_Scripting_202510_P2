@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Parcial2.src
 {
-    internal class TypeChart
+    public class TypeChart
     {
         private static readonly Dictionary<(PokemonType, PokemonType), double> chart =
             new Dictionary<(PokemonType, PokemonType), double>
