@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "tests\\TypeChartTests.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\tests\\TypeChartTests.cs",
               "RelativeToolTip": "tests\\TypeChartTests.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T11:51:43.478Z",
               "EditorCaption": ""
@@ -77,7 +77,7 @@
               "RelativeDocumentMoniker": "src\\TypeChart.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\TypeChart.cs",
               "RelativeToolTip": "src\\TypeChart.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAowHUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T11:51:26.969Z",
               "EditorCaption": ""
@@ -164,8 +164,7 @@
               "RelativeToolTip": "UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:23:42.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T11:23:42.418Z"
             }
           ]
         }
