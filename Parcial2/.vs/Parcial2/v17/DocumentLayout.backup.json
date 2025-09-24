@@ -94,8 +94,7 @@
               "RelativeToolTip": "src\\Bulbasaur.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:25:44.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T12:25:44.1Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "tests\\PokemonTests.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:32:17.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T11:32:17.972Z"
             },
             {
               "$type": "Document",
@@ -132,8 +130,7 @@
               "RelativeToolTip": "tests\\MoveTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T11:32:37.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T11:32:37.053Z"
             },
             {
               "$type": "Document",
@@ -145,8 +142,7 @@
               "RelativeToolTip": "src\\DamageCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:14:01.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T12:14:01.979Z"
             },
             {
               "$type": "Document",
@@ -158,8 +154,7 @@
               "RelativeToolTip": "src\\Charmander.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:25:27.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T12:25:27.603Z"
             },
             {
               "$type": "Document",
@@ -171,8 +166,7 @@
               "RelativeToolTip": "src\\Gastly.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:26:31.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T12:26:31.154Z"
             },
             {
               "$type": "Document",
@@ -184,8 +178,7 @@
               "RelativeToolTip": "src\\Onix.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:26:14.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T12:26:14.916Z"
             },
             {
               "$type": "Document",
@@ -195,7 +188,7 @@
               "RelativeDocumentMoniker": "src\\Pikachu.cs",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Universidad\\6-semestre\\scripting\\parcial2\\IDED_Scripting_202510_P2\\Parcial2\\src\\Pikachu.cs",
               "RelativeToolTip": "src\\Pikachu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T12:25:12.959Z",
               "EditorCaption": ""
